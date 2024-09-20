@@ -7,4 +7,4 @@ This issue can occur even when using two devices placed side by side, which may 
 In contrast, barometer-based altitude measurements tend to be more accurate and do not exhibit these inconsistencies. 
 However, to obtain the altitude value from a barometer, you need to know the current temperature and the atmospheric pressure at sea level for your location.
 
-The formula for converting sea-level pressure (Pa), temperature in Kelvin, and current pressure (Pa) can be found at: https://www.mide.com/air-pressure-at-altitude-calculator.
+The formula for converting sea-level pressure (Pa), temperature in Kelvin, and current pressure (Pa), which is used here, comes from: https://www.mide.com/air-pressure-at-altitude-calculator.
